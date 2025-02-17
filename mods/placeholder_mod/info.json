@@ -1,6 +1,8 @@
 {
     "name": "Mod Name",
-    "description": "A short description of the mod.",
+    "description": "A short description of the mod. LA LA LAS LER EWKRWELR EW RSD.",
+    "type": "UI",
     "version": "1.0",
+    "image": "https://raw.githubusercontent.com/takattowo/takattoFS2/refs/heads/main/takatto_mods/Mark%20simplifier/Mark%20simplifier.png",
     "download": "https://github.com/takattowo/takattoFS2-mods/raw/main/mods/ModName.zip"
 }
