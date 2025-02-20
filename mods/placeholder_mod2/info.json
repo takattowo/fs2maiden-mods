@@ -4,7 +4,7 @@
     "version": "1.0",
     "type": "extra",
     "files": [
-        "Data/Stage/cubemap",
+        "Data/Stage/cubemap/stage00_takatto_cmap_night.dds",
         "Data/Stage/data/stage00_katto",
         "Data/Stage/kattowo"
     ],
