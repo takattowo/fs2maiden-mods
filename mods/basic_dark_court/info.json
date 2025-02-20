@@ -6,7 +6,7 @@
     "files": [
         "Data/Stage/cubemap/stage00_takatto_cmap_night.png",
         "Data/Stage/data/stage00_katto",
-        "Data/Stage/kattowo"
+        "Data/Stage/stage00_katto"
     ],
     "download": "https://github.com/takattowo/takattoFS2-mods/raw/refs/heads/main/mods/basic_dark_court/stage00_takatto_cmap.zip"
 }
