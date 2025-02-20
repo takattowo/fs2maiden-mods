@@ -1,0 +1,12 @@
+{
+    "name": "Simple dark court",
+    "description": "A simple dark court that saves lives.",
+    "version": "1.0",
+    "type": "extra",
+    "files": [
+        "Data/Stage/cubemap/stage00_takatto_cmap_night.png",
+        "Data/Stage/data/stage00_katto",
+        "Data/Stage/kattowo"
+    ],
+    "download": "https://github.com/takattowo/takattoFS2-mods/raw/refs/heads/main/mods/basic_dark_court/stage00_takatto_cmap.zip"
+}
