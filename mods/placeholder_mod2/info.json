@@ -1,6 +1,12 @@
 {
-    "name": "Mod Name2",
-    "description": "A short description of the mod.",
+    "name": "Simple dark court",
+    "description": "A simple dark court that saves lives.",
     "version": "1.0",
-    "download": "https://github.com/takattowo/takattoFS2-mods/raw/main/mods/ModName.zip"
+    "type": "extra",
+    "download": "https://github.com/takattowo/takattoFS2-mods/raw/refs/heads/main/mods/placeholder_mod2/stage00_takatto_cmap.zip"
+    "files": [
+        "Data/Stage/cubemap",
+        "Data/Stage/data/stage00_katto",
+        "Data/Stage/kattowo"
+    ]
 }
