@@ -1,0 +1,11 @@
+{
+    "name": "No map logo",
+    "description": "A collection of 50+ songs for Jukebox, personally selected by me.",
+    "version": "1.0",
+    "type": "extra",
+    "files": [
+        "Data/bgmkatto.dat",
+        "Sound/BGM_TAKATTO_JUKEBOX"
+    ],
+    "download": "https://www.dl.dropboxusercontent.com/s/ebvhjrccfcko4ef/fs2_50_song_collection_by_katto.zip"
+}
