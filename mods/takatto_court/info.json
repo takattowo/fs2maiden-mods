@@ -4,7 +4,7 @@
     "version": "1.0",
     "type": "extra",
     "files": [
-        "Data/Stage/cubemap/stage12_takatto_cmap_day.png",
+        "Data/Stage/cubemap/stage12_takatto_cmap_sunny.png",
         "Data/Stage/cubemap/stage12_takatto_cmap_night.png",
         "Data/Stage/data/stage12_katto_night",
         "Data/Stage/data/stage12_katto_sunny",
