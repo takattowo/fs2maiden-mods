@@ -1,6 +1,6 @@
 {
     "name": "Simple dark court",
-    "description": "A simple dark court that saves lives.",
+    "description": "A simple, dark court that saves lives. You can find the map named \"stage00_katto\" in the map menu after installation.",
     "version": "1.0",
     "type": "extra",
     "files": [
