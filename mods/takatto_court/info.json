@@ -1,15 +1,15 @@
 {
-    "name": "Katto's double court",
+    "name": "Katto's double courts",
     "description": "Courts that were restored from old patcher. You can find the map named \"stage12_katto\" in the map menu after installation. Remember to only use \"stage12_katto\" map only, do not use \"stage12\" as it cause crash.",
     "version": "1.0",
     "type": "extra",
     "files": [
-        "Data/Stage/cubemap/stage12_takatto_cmap_day.png.png",
-	"Data/Stage/cubemap/stage12_takatto_cmap_night.png.png",
+        "Data/Stage/cubemap/stage12_takatto_cmap_day.png",
+        "Data/Stage/cubemap/stage12_takatto_cmap_night.png",
         "Data/Stage/data/stage12_katto_night",
         "Data/Stage/data/stage12_katto_day",
         "Data/Stage/stage12_katto_night",
-        "Data/Stage/stage12_katto_day",
+        "Data/Stage/stage12_katto_day"
     ],
     "download": "https://github.com/takattowo/takattoFS2-mods/raw/refs/heads/main/mods/takatto_court/stage12_takatto_cmap.zip"
 }
