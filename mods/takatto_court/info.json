@@ -7,9 +7,9 @@
         "Data/Stage/cubemap/stage12_takatto_cmap_day.png",
         "Data/Stage/cubemap/stage12_takatto_cmap_night.png",
         "Data/Stage/data/stage12_katto_night",
-        "Data/Stage/data/stage12_katto_day",
+        "Data/Stage/data/stage12_katto_sunny",
         "Data/Stage/stage12_katto_night",
-        "Data/Stage/stage12_katto_day"
+        "Data/Stage/stage12_katto_sunny"
     ],
     "download": "https://github.com/takattowo/takattoFS2-mods/raw/refs/heads/main/mods/takatto_court/stage12_takatto_cmap.zip"
 }
