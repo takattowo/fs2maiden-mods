@@ -1,0 +1,6 @@
+{
+    "name": "Vietnamese MC voice",
+    "description": "Replace current MC voice into Vietnamese.",
+    "type": "dlc",
+    "download": "https://github.com/takattowo/takattoFS2-mods/raw/refs/heads/main/mods/mc_voice_vietnamese/file.zip"
+}
