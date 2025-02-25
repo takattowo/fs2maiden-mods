@@ -2,7 +2,7 @@
     "name": "Jukebox collection",
     "description": "A collection of 50+ songs for Jukebox, personally selected by me.",
     "version": "1.0",
-    "type": "extra",
+    "type": "dlc",
     "files": [
         "Data/bgmkatto.dat",
         "Sound/BGM_TAKATTO_JUKEBOX"
