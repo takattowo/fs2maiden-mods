@@ -1,6 +1,6 @@
 # takattoFS2-Next mods
 
-The official collection of Windhawk mods. The mods can be viewed and installed with [takattoFS2 Patcher](https://takattowo.github.io/takattoFS2/).
+The official collection of takattoFS2 Patcher mods. The mods can be viewed and installed with [takattoFS2 Patcher](https://takattowo.github.io/takattoFS2/).
 
 ## Discussing mods
 
