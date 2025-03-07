@@ -1,0 +1,8 @@
+{
+    "name": "Click-through GameStart",
+    "description": "Make the \"Game Start\" text click-through, could save lives.",
+    "version": "1.0",
+    "type": "ui",
+    "download": "https://github.com/takattowo/takattoFS2-mods/raw/refs/heads/main/mods/start_notice_clickthrough/file.zip",
+    "image": "https://github.com/takattowo/takattoFS2-mods/raw/refs/heads/main/mods/start_notice_clickthrough/img.png",
+}
