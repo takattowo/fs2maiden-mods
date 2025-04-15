@@ -1,0 +1,7 @@
+{
+    "name": "Keep purchase window",
+    "description": "Prevents the purchase window from closing after buying an item, making bulk purchases faster and more convenient.",
+    "version": "1.0",
+    "type": "ui",
+    "download": "https://github.com/takattowo/takattoFS2-mods/raw/refs/heads/main/mods/keep_purchase_window/file.zip"
+}
