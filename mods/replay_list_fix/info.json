@@ -1,0 +1,8 @@
+{
+    "name": "Replay list fix",
+    "description": "Fix the replay list so it allows you to view character notes on your opponent.",
+    "version": "1.0",
+    "type": "ui", 
+    "image": "https://github.com/takattowo/takattoFS2-mods/raw/refs/heads/main/mods/replay_list_fix/image.png",
+    "download": "https://github.com/takattowo/takattoFS2-mods/raw/refs/heads/main/mods/replay_list_fix/file.zip"
+}
