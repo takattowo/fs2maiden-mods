@@ -1,0 +1,7 @@
+{
+    "name": "Remove vignette effect",
+    "description": "Remove the dark shadow overlay in-game to make the visuals look more natural.",
+    "version": "1.0",
+    "type": "ui", 
+    "download": "https://github.com/takattowo/takattoFS2-mods/raw/refs/heads/main/mods/de_vignette/file.zip"
+}
