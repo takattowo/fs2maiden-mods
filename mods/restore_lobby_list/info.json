@@ -3,6 +3,6 @@
   "type": "ui",
   "version": "1.0",
   "description": "Restore the classic lobby list. Please note, you cannot join a lobby that has a closed slot. To find a game on your own, click the \"Auto Matchmaking\" button. Enjoy!",
-  "image": "https://github.com/takattowo/takattoFS2-mods/raw/refs/heads/main/mods/restore_lobby_list/img.png",
+  "image": "https://github.com/takattowo/takattoFS2-mods/raw/refs/heads/main/mods/restore_lobby_list/image.png",
   "download": "https://github.com/takattowo/takattoFS2-mods/raw/refs/heads/main/mods/restore_lobby_list/file.zip"
 }
