@@ -1,8 +1,8 @@
 {
     "name": "Football",
-    "description": "Replace the in-game ball with a football.",
+    "description": "Replace the in-game ball with a football. Non-kickable.",
     "version": "1.0",
     "type": "patch",
-    "image": "https://github.com/takattowo/takattoFS2-mods/raw/refs/heads/main/mods/foot_ball_balls/a_football.png",
-    "download": "https://github.com/takattowo/takattoFS2-mods/raw/refs/heads/main/mods/foot_ball_balls/file.zip"
+    "image": "https://github.com/takattowo/fs2maiden-mods/raw/refs/heads/main/mods/foot_ball_balls/a_football.png",
+    "download": "https://github.com/takattowo/fs2maiden-mods/raw/refs/heads/main/mods/foot_ball_balls/file.zip"
 }

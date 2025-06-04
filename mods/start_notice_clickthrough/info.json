@@ -3,6 +3,6 @@
     "description": "Make the \"Game Start\" text click-through, could save lives. You can also hide the text by pressing \"Escape\" on your keyboard in case this text stucks forever.",
     "version": "2.0",
     "type": "ui",
-    "download": "https://github.com/takattowo/takattoFS2-mods/raw/refs/heads/main/mods/start_notice_clickthrough/file.zip",
-    "image": "https://github.com/takattowo/takattoFS2-mods/raw/refs/heads/main/mods/start_notice_clickthrough/img.png",
+    "download": "https://github.com/takattowo/fs2maiden-mods/raw/refs/heads/main/mods/start_notice_clickthrough/file.zip",
+    "image": "https://github.com/takattowo/fs2maiden-mods/raw/refs/heads/main/mods/start_notice_clickthrough/img.png",
 }

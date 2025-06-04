@@ -3,6 +3,6 @@
     "description": "Remove special markers under character's feet and remove the green circle from yourself while keeping it on your teammates.",
     "version": "1.0",
     "type": "ui",
-    "image": "https://github.com/takattowo/takattoFS2-mods/raw/refs/heads/main/mods/mark_simplifier/image.png",
-    "download": "https://github.com/takattowo/takattoFS2-mods/raw/refs/heads/main/mods/mark_simplifier/charactermark.zip"
+    "image": "https://github.com/takattowo/fs2maiden-mods/raw/refs/heads/main/mods/mark_simplifier/image.png",
+    "download": "https://github.com/takattowo/fs2maiden-mods/raw/refs/heads/main/mods/mark_simplifier/charactermark.zip"
 }

@@ -3,5 +3,5 @@
     "description": "Automatically log you in as soon as the game finishes loading. This mod is only for global FS2 client.",
     "version": "1.0",
     "type": "ui",
-    "download": "https://github.com/takattowo/takattoFS2-mods/raw/refs/heads/main/mods/auto_login_global/file.zip"
+    "download": "https://github.com/takattowo/fs2maiden-mods/raw/refs/heads/main/mods/auto_login_global/file.zip"
 }
