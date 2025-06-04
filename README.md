@@ -4,11 +4,11 @@ The official collection of takattoFS2 Patcher mods. The mods can be viewed and i
 
 ## Discussing mods
 
-You're welcome to participate in [GitHub discussions](https://github.com/takattowo/takattoFS2-mods/discussions) or join [the Discord channel](https://discord.gg/yJmKf7PDzS) for a live discussion.
+You're welcome to participate in [GitHub discussions](https://github.com/takattowo/fs2maiden-mods/discussions) or join [the Discord channel](https://discord.gg/yJmKf7PDzS) for a live discussion.
 
 ## Creating a new mod
 
-Please refer to the corresponding wiki page: [Creating a new mod](https://github.com/takattowo/takattoFS2-mods/wiki/creating-a-new-mod).
+Please refer to the corresponding wiki page: [Creating a new mod](https://github.com/takattowo/fs2maiden-mods/wiki/creating-a-new-mod).
 
 ## Submitting a new mod
 
