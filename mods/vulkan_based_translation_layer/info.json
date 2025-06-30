@@ -1,0 +1,15 @@
+{
+    "name": "Vulkan-based implementation",
+    "description": "Enable the Vulkan proxy for the game. It may or may not improve performance, but it's worth trying. Please note that the game may stutter significantly on the first launch as shaders are being compiled.",
+    "version": "2.6.2",
+    "author": "doitsujin",
+    "type": "extra",
+    "files": [
+        "d3d9.dll",
+        "d3d11.dll",
+        "d3d8.dll",        
+        "d3d10core.dll",        
+        "dxgi.dll"
+    ],
+    "download": "https://github.com/takattowo/fs2maiden-mods/raw/refs/heads/main/mods/vulkan_based_translation_layer/2.6.2.zip"
+}
