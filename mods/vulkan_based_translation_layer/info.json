@@ -11,5 +11,5 @@
         "d3d10core.dll",        
         "dxgi.dll"
     ],
-    "download": "https://github.com/takattowo/fs2maiden-mods/raw/refs/heads/main/mods/vulkan_based_translation_layer/2.6.2.zip"
+    "download": "https://github.com/takattowo/fs2maiden-mods/raw/refs/heads/main/mods/vulkan_based_translation_layer/2.7.0.zip"
 }
