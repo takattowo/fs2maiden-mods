@@ -1,7 +1,7 @@
 {
     "name": "Vulkan-based implementation",
-    "description": "Enable the Vulkan proxy for the game. It may or may not improve performance, but it's worth trying. Please note that the game may stutter significantly on the first launch as shaders are being compiled.",
-    "version": "2.6.2",
+    "description": "Enable the Vulkan proxy for the game. It may or may not improve performance, but it's worth trying. Please note that the game may stutter significantly on the first launch as shaders are being compiled. If the game performance is not improved, try disabling full screen optimization.",
+    "version": "2.7.0",
     "author": "doitsujin",
     "type": "extra",
     "files": [
