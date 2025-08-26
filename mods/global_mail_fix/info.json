@@ -1,0 +1,7 @@
+{
+    "name": "Global mail fix",
+    "description": "Make the gift box clickable in the background, and allow force-closing it by pressing the \"ESC\" key in case it gets stuck.",
+    "version": "1.0",
+    "type": "ui",
+    "download": "https://github.com/takattowo/fs2maiden-mods/raw/refs/heads/main/mods/global_mail_fix/global_mail_fix.zip"
+}
