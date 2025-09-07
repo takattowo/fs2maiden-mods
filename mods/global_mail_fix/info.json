@@ -1,1 +1,10 @@
-{"visible":true,"name":"Global mail fix","type":"ui","version":"2.0","description":"Allow force-closing the gift box by pressing the \u0022ESC\u0022 key in case it gets stuck.","author":"","image":"","download":"https://github.com/takattowo/fs2maiden-mods/raw/refs/heads/main/mods/global_mail_fix/global_mail_fix.zip","files":[]}
+{
+  "visible": true,
+  "name": "Global mail fix",
+  "type": "ui",
+  "version": "2.0",
+  "description": "Allow force-closing the gift box by pressing the \"ESC\" key in case it gets stuck.",
+  "image": "https://github.com/takattowo/fs2maiden-mods/raw/refs/heads/main/mods/global_mail_fix/img.png",
+  "download": "https://github.com/takattowo/fs2maiden-mods/raw/refs/heads/main/mods/global_mail_fix/global_mail_fix.zip",
+  "files": []
+}
