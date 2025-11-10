@@ -1,0 +1,7 @@
+{
+    "name": "Chinese language pack",
+    "description": "Change the game language into full Chinese, fetched from Tincity client. Update as of 11/10/2025. 将游戏语言更改为完整中文，从 Tincity 客户端获取。更新日期：2025年11月10日。",
+    "version": "11.25",
+    "type": "patch",
+    "download": "https://github.com/takattowo/fs2maiden-mods/raw/refs/heads/main/mods/language_pack_cn/file.zip"
+}
