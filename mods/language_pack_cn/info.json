@@ -1,8 +1,9 @@
 {
     "name": "Chinese language pack",
-    "description": "Change the game language into full Chinese, fetched from Tincity client. Update as of 11/10/2025. The game language must be set to either Chinese, English, or Korean for it to work. 将游戏语言更改为完整中文，从 Tincity 客户端获取。更新日期：2025年11月10日。游戏语言必须设置为中文、英文或韩文才能正常运行。",
+    "description": "Change the game language into full Chinese, fetched from TCS client. Update as of 11/10/2025. The game language must be set to either Chinese, English, or Korean for it to work. 将游戏语言更改为完整中文，从 TCS 客户端获取。更新日期：2025年11月10日。游戏语言必须设置为中文、英文或韩文才能正常运行。",
     "version": "11.25",
     "type": "patch",
     "download": "https://github.com/takattowo/fs2maiden-mods/raw/refs/heads/main/mods/language_pack_cn/file.zip"
 
 }
+
