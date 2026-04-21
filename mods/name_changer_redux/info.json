@@ -1,0 +1,11 @@
+{
+  "visible": true,
+  "name": "Name changer redux",
+  "type": "ui",
+  "version": "1.0",
+  "description": "Allow the name changer to support Chinese and Korean characters, and increase the maximum length from 12 to 15 characters.",
+  "author": "",
+  "image": "https://github.com/takattowo/fs2maiden-mods/raw/refs/heads/main/mods/name_changer_redux/image.png",
+  "download": "https://github.com/takattowo/fs2maiden-mods/raw/refs/heads/main/mods/name_changer_redux/file.zip",
+  "files": []
+}
