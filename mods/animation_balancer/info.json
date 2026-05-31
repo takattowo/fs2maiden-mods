@@ -1,0 +1,7 @@
+{
+  "name": "Animation balancer",
+  "type": "cook",
+  "version": "1.0",
+  "description": "Restore game balance by replacing the broken animations of Ash, Jaygun, Vale, Jason Lee, Rinka, Stella, Yuna, Yeondu, and Nitocris with Vesper and Teneb animations. This mod is currently in beta while we evaluate its impact on the community and may be changed, or discontinued at any time.",
+  "download": "https://github.com/takattowo/fs2maiden-mods/raw/refs/heads/main/mods/animation_balancer/owo.zip",
+}
