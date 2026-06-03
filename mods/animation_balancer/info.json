@@ -1,4 +1,5 @@
 {
+  "visible": false,
   "name": "Animation balancer",
   "type": "cook",
   "version": "1.0",
