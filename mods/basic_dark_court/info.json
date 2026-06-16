@@ -1,6 +1,14 @@
 {
     "name": "Simple dark court",
+    "name_ko": "심플 다크 코트",
+    "name_th": "สนามมืดแบบเรียบง่าย",
+    "name_ru": "Простой тёмный корт",
+    "name_zh": "简约暗色球场",
     "description": "A simple, dark court that saves lives. You can find the map named \"stage00_katto\" in the map menu after installation.",
+    "description_ko": "생명을 구하는 심플하고 어두운 코트입니다. 설치 후 맵 메뉴에서 \"stage00_katto\"라는 이름의 맵을 찾을 수 있습니다.",
+    "description_th": "สนามมืดแบบเรียบง่ายที่ช่วยชีวิตได้ หลังติดตั้งคุณจะพบแมปชื่อ \"stage00_katto\" ในเมนูแมป",
+    "description_ru": "Простой тёмный корт, который спасает жизни. После установки вы найдёте карту с названием \"stage00_katto\" в меню карт.",
+    "description_zh": "一个简约的暗色球场，能救命。安装后，你可以在地图菜单中找到名为 \"stage00_katto\" 的地图。",
     "version": "1.0",
     "type": "extra",
     "files": [

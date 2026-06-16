@@ -1,8 +1,16 @@
 {
   "name": "Restore lobby list",
+  "name_ko": "로비 목록 복원",
+  "name_th": "คืนรายการล็อบบี้",
+  "name_ru": "Восстановление списка лобби",
+  "name_zh": "恢复房间列表",
   "type": "ui",
   "version": "1.0",
   "description": "Yes you heard that right! Such innvovation! Restore the classic lobby list. Note that you cannot join a lobby that has all slot closed. To find a game on your own, click the \"Auto Matchmaking\" button.",
+  "description_ko": "네, 제대로 들으셨습니다! 이런 혁신이! 클래식 로비 목록을 복원합니다. 모든 슬롯이 닫힌 로비에는 참가할 수 없으니 참고하세요. 직접 게임을 찾으려면 \"Auto Matchmaking\" 버튼을 클릭하세요.",
+  "description_th": "ใช่ คุณได้ยินถูกแล้ว! ช่างเป็นนวัตกรรม! คืนรายการล็อบบี้แบบคลาสสิก โปรดทราบว่าคุณไม่สามารถเข้าร่วมล็อบบี้ที่ปิดทุกช่องได้ หากต้องการหาเกมด้วยตัวเอง ให้คลิกปุ่ม \"Auto Matchmaking\"",
+  "description_ru": "Да, вы не ослышались! Какая инновация! Восстанавливает классический список лобби. Учтите, что нельзя присоединиться к лобби, где закрыты все слоты. Чтобы найти игру самостоятельно, нажмите кнопку \"Auto Matchmaking\".",
+  "description_zh": "没错，你没听错！如此创新！恢复经典的房间列表。请注意，你无法加入所有位置都已关闭的房间。要自己寻找游戏，请点击 \"Auto Matchmaking\" 按钮。",
   "image": "https://github.com/takattowo/fs2maiden-mods/raw/refs/heads/main/mods/restore_lobby_list/image.png",
   "download": "https://github.com/takattowo/fs2maiden-mods/raw/refs/heads/main/mods/restore_lobby_list/file.zip"
 }

@@ -1,6 +1,14 @@
 {
     "name": "Open dice shop",
+    "name_ko": "주사위 상점 열기",
+    "name_th": "เปิดร้านลูกเต๋า",
+    "name_ru": "Открыть магазин кубиков",
+    "name_zh": "打开骰子商店",
     "description": "Allows you to manually open Billy's Dice Shop without needing to roll for it. Press 9 on your keyboard to open the window.",
+    "description_ko": "주사위를 굴릴 필요 없이 Billy's Dice Shop을 수동으로 열 수 있게 합니다. 키보드에서 9를 눌러 창을 엽니다.",
+    "description_th": "ให้คุณเปิด Billy's Dice Shop ด้วยตนเองโดยไม่ต้องทอยลูกเต๋า กดปุ่ม 9 บนคีย์บอร์ดเพื่อเปิดหน้าต่าง",
+    "description_ru": "Позволяет вручную открыть Billy's Dice Shop без необходимости бросать кубик. Нажмите 9 на клавиатуре, чтобы открыть окно.",
+    "description_zh": "让你无需掷骰子即可手动打开 Billy's Dice Shop。按键盘上的 9 即可打开窗口。",
     "version": "1.0",
     "type": "ui",
     "download": "https://github.com/takattowo/fs2maiden-mods/raw/refs/heads/main/mods/open_dice_shop/file.zip"

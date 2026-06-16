@@ -1,6 +1,14 @@
 {
     "name": "Auto login",
+    "name_ko": "자동 로그인",
+    "name_th": "ล็อกอินอัตโนมัติ",
+    "name_ru": "Автоматический вход",
+    "name_zh": "自动登录",
     "description": "Automatically log you in as soon as the game finishes loading. This mod is only for global FS2 client.",
+    "description_ko": "게임 로딩이 끝나면 자동으로 로그인해 줍니다. 이 모드는 글로벌 FS2 클라이언트 전용입니다.",
+    "description_th": "เข้าสู่ระบบให้คุณโดยอัตโนมัติทันทีที่เกมโหลดเสร็จ ม็อดนี้ใช้ได้กับไคลเอนต์ FS2 โกลบอลเท่านั้น",
+    "description_ru": "Автоматически выполняет вход, как только игра завершит загрузку. Этот мод предназначен только для глобального клиента FS2.",
+    "description_zh": "游戏加载完成后自动为你登录。此模组仅适用于全球版 FS2 客户端。",
     "version": "1.0",
     "type": "ui",
     "download": "https://github.com/takattowo/fs2maiden-mods/raw/refs/heads/main/mods/auto_login_global/file.zip"

@@ -1,6 +1,14 @@
 {
     "name": "Vietnamese MC voice",
+    "name_ko": "베트남어 MC 보이스",
+    "name_th": "เสียง MC ภาษาเวียดนาม",
+    "name_ru": "Вьетнамский голос MC",
+    "name_zh": "越南语 MC 语音",
     "description": "Replace current MC voice into Vietnamese. Once it's downloaded, you can verify it by going to Sound > MC voice.",
+    "description_ko": "현재 MC 보이스를 베트남어로 교체합니다. 다운로드 후 Sound > MC voice에서 확인할 수 있습니다.",
+    "description_th": "เปลี่ยนเสียง MC ปัจจุบันเป็นภาษาเวียดนาม เมื่อดาวน์โหลดแล้ว คุณสามารถตรวจสอบได้ที่ Sound > MC voice",
+    "description_ru": "Заменяет текущий голос MC на вьетнамский. После загрузки это можно проверить в разделе Sound > MC voice.",
+    "description_zh": "将当前的 MC 语音替换为越南语。下载完成后，你可以在 Sound > MC voice 中验证。",
     "type": "dlc",
     "download": "https://github.com/takattowo/fs2maiden-mods/raw/refs/heads/main/mods/mc_voice_vietnamese/file.zip"
 }

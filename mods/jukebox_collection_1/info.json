@@ -1,6 +1,14 @@
 {
     "name": "Jukebox collection",
+    "name_ko": "주크박스 컬렉션",
+    "name_th": "คอลเลกชันจูกบ็อกซ์",
+    "name_ru": "Коллекция для музыкального автомата",
+    "name_zh": "点唱机歌曲合集",
     "description": "A collection of 50+ songs for Jukebox, personally selected by me.",
+    "description_ko": "제가 직접 선정한 주크박스용 50곡 이상의 컬렉션입니다.",
+    "description_th": "คอลเลกชันเพลงกว่า 50 เพลงสำหรับจูกบ็อกซ์ ที่ผมคัดเลือกด้วยตัวเอง",
+    "description_ru": "Коллекция из более чем 50 песен для музыкального автомата, отобранных лично мной.",
+    "description_zh": "我亲自挑选的 50 多首点唱机歌曲合集。",
     "version": "1.0",
     "type": "dlc",
     "files": [

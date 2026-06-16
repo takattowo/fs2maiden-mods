@@ -1,7 +1,15 @@
 {
     "name": "Remove vignette effect",
+    "name_ko": "비네팅 효과 제거",
+    "name_th": "ลบเอฟเฟกต์ขอบมืด",
+    "name_ru": "Удаление эффекта виньетки",
+    "name_zh": "移除暗角效果",
     "description": "Remove the dark shadow overlay in-game to make the visuals look more natural.",
+    "description_ko": "게임 내 어두운 그림자 오버레이를 제거하여 화면을 더 자연스럽게 보이게 합니다.",
+    "description_th": "ลบเงามืดที่ซ้อนอยู่ในเกมเพื่อให้ภาพดูเป็นธรรมชาติมากขึ้น",
+    "description_ru": "Удаляет тёмное затемнение по краям экрана в игре, чтобы картинка выглядела естественнее.",
+    "description_zh": "移除游戏中的暗色阴影遮罩，让画面看起来更自然。",
     "version": "1.0",
-    "type": "ui", 
+    "type": "ui",
     "download": "https://github.com/takattowo/fs2maiden-mods/raw/refs/heads/main/mods/de_vignette/file.zip"
 }

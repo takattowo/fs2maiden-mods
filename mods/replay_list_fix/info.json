@@ -1,8 +1,16 @@
 {
     "name": "Replay list fix",
+    "name_ko": "리플레이 목록 수정",
+    "name_th": "แก้ไขรายการรีเพลย์",
+    "name_ru": "Исправление списка повторов",
+    "name_zh": "回放列表修复",
     "description": "Fix the replay list so it allows you to view character notes on your opponent.",
+    "description_ko": "리플레이 목록을 수정하여 상대방의 캐릭터 노트를 볼 수 있게 합니다.",
+    "description_th": "แก้ไขรายการรีเพลย์เพื่อให้คุณดูบันทึกตัวละครของคู่ต่อสู้ได้",
+    "description_ru": "Исправляет список повторов, позволяя просматривать заметки о персонаже вашего противника.",
+    "description_zh": "修复回放列表，让你可以查看对手的角色笔记。",
     "version": "1.0",
-    "type": "ui", 
+    "type": "ui",
     "image": "https://github.com/takattowo/fs2maiden-mods/raw/refs/heads/main/mods/replay_list_fix/image.png",
     "download": "https://github.com/takattowo/fs2maiden-mods/raw/refs/heads/main/mods/replay_list_fix/file.zip"
 }

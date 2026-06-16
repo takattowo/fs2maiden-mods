@@ -1,9 +1,17 @@
 {
   "visible": true,
   "name": "Global mail fix",
+  "name_ko": "글로벌 우편 수정",
+  "name_th": "แก้ไขกล่องจดหมายโกลบอล",
+  "name_ru": "Исправление почты (Global)",
+  "name_zh": "全球版邮件修复",
   "type": "ui",
   "version": "2.0",
   "description": "Allow force-closing the gift box by pressing the \"ESC\" key in case it gets stuck.",
+  "description_ko": "선물 상자가 멈췄을 때 \"ESC\" 키를 눌러 강제로 닫을 수 있게 합니다.",
+  "description_th": "อนุญาตให้บังคับปิดกล่องของขวัญด้วยการกดปุ่ม \"ESC\" ในกรณีที่มันค้าง",
+  "description_ru": "Позволяет принудительно закрыть окно подарков нажатием клавиши \"ESC\", если оно зависло.",
+  "description_zh": "当礼物盒卡住时，允许按 \"ESC\" 键强制关闭它。",
   "image": "https://github.com/takattowo/fs2maiden-mods/raw/refs/heads/main/mods/global_mail_fix/img.png",
   "download": "https://github.com/takattowo/fs2maiden-mods/raw/refs/heads/main/mods/global_mail_fix/global_mail_fix.zip",
   "files": []

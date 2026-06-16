@@ -1,8 +1,16 @@
 {
     "name": "Click-through GameStart",
+    "name_ko": "게임 시작 클릭 통과",
+    "name_th": "คลิกทะลุ GameStart",
+    "name_ru": "Сквозной клик по GameStart",
+    "name_zh": "可点击穿透的 GameStart",
     "description": "Make the \"Game Start\" text click-through, could save lives. You can also hide the text by pressing \"Escape\" on your keyboard in case this text stucks forever.",
+    "description_ko": "\"Game Start\" 텍스트를 클릭 통과되도록 만들어, 생명을 구할 수 있습니다. 이 텍스트가 영원히 멈춰 있을 경우 키보드에서 \"Escape\"를 눌러 텍스트를 숨길 수도 있습니다.",
+    "description_th": "ทำให้ข้อความ \"Game Start\" คลิกทะลุได้ อาจช่วยชีวิตได้ คุณยังสามารถซ่อนข้อความได้ด้วยการกด \"Escape\" บนคีย์บอร์ดในกรณีที่ข้อความนี้ค้างตลอดไป",
+    "description_ru": "Делает текст \"Game Start\" прозрачным для кликов, что может спасти жизни. Вы также можете скрыть текст, нажав \"Escape\" на клавиатуре, если он завис навсегда.",
+    "description_zh": "让 \"Game Start\" 文字可点击穿透，能救命。如果该文字一直卡住，你也可以按键盘上的 \"Escape\" 来隐藏它。",
     "version": "2.0",
     "type": "ui",
     "download": "https://github.com/takattowo/fs2maiden-mods/raw/refs/heads/main/mods/start_notice_clickthrough/file.zip",
-    "image": "https://github.com/takattowo/fs2maiden-mods/raw/refs/heads/main/mods/start_notice_clickthrough/img.png",
+    "image": "https://github.com/takattowo/fs2maiden-mods/raw/refs/heads/main/mods/start_notice_clickthrough/img.png"
 }

@@ -1,6 +1,14 @@
 {
     "name": "Katto's double courts",
+    "name_ko": "Katto의 더블 코트",
+    "name_th": "สนามคู่ของ Katto",
+    "name_ru": "Двойные корты Katto",
+    "name_zh": "Katto 的双球场",
     "description": "Courts restored from the earlier version of patcher. You can find the map named \"stage12_katto\" in the map menu after installation.",
+    "description_ko": "이전 버전 패처에서 복원된 코트입니다. 설치 후 맵 메뉴에서 \"stage12_katto\"라는 이름의 맵을 찾을 수 있습니다.",
+    "description_th": "สนามที่คืนค่ามาจากแพตเชอร์เวอร์ชันก่อนหน้า หลังติดตั้งคุณจะพบแมปชื่อ \"stage12_katto\" ในเมนูแมป",
+    "description_ru": "Корты, восстановленные из более ранней версии патчера. После установки вы найдёте карту с названием \"stage12_katto\" в меню карт.",
+    "description_zh": "从早期版本的修补程序中恢复的球场。安装后，你可以在地图菜单中找到名为 \"stage12_katto\" 的地图。",
     "version": "1.0",
     "type": "extra",
     "files": [

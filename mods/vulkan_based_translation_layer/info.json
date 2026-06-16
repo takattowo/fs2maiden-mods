@@ -1,16 +1,23 @@
 {
     "name": "Vulkan-based implementation",
+    "name_ko": "Vulkan 기반 구현",
+    "name_th": "การใช้งานบนพื้นฐาน Vulkan",
+    "name_ru": "Реализация на основе Vulkan",
+    "name_zh": "基于 Vulkan 的实现",
     "description": "Enable the Vulkan proxy for the game. It may improve performance. Expect stuttering on first launch due to shader compilation. If performance does not improve, disable fullscreen optimization. If it still does not help, uninstall then.",
+    "description_ko": "게임에 Vulkan 프록시를 활성화합니다. 성능이 향상될 수 있습니다. 셰이더 컴파일로 인해 첫 실행 시 끊김이 발생할 수 있습니다. 성능이 개선되지 않으면 전체 화면 최적화를 비활성화하세요. 그래도 도움이 되지 않으면 제거하세요.",
+    "description_th": "เปิดใช้งาน Vulkan proxy สำหรับเกม อาจช่วยเพิ่มประสิทธิภาพ คาดว่าจะมีอาการกระตุกในการเปิดครั้งแรกเนื่องจากการคอมไพล์เชดเดอร์ หากประสิทธิภาพไม่ดีขึ้น ให้ปิดการปรับแต่งแบบเต็มหน้าจอ หากยังไม่ช่วย ให้ถอนการติดตั้ง",
+    "description_ru": "Включает Vulkan-прокси для игры. Может повысить производительность. При первом запуске ожидайте подвисаний из-за компиляции шейдеров. Если производительность не улучшается, отключите оптимизацию полноэкранного режима. Если и это не помогает, удалите мод.",
+    "description_zh": "为游戏启用 Vulkan 代理。可能会提升性能。由于着色器编译，首次启动时预计会出现卡顿。如果性能没有改善，请禁用全屏优化。如果仍然没有帮助，请卸载。",
     "version": "2.7.1",
     "author": "doitsujin",
     "type": "extra",
     "files": [
         "d3d9.dll",
         "d3d11.dll",
-        "d3d8.dll",        
-        "d3d10core.dll",        
+        "d3d8.dll",
+        "d3d10core.dll",
         "dxgi.dll"
     ],
     "download": "https://github.com/takattowo/fs2maiden-mods/raw/refs/heads/main/mods/vulkan_based_translation_layer/2.7.1.zip"
 }
-

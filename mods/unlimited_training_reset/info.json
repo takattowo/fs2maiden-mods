@@ -1,8 +1,15 @@
 {
     "name": "Free training reset",
+    "name_ko": "무제한 트레이닝 초기화",
+    "name_th": "รีเซ็ตการฝึกฟรี",
+    "name_ru": "Бесплатный сброс тренировки",
+    "name_zh": "免费训练重置",
     "description": "Allow you to change attribute freely without having to use a resetter.",
+    "description_ko": "리셋 아이템을 사용하지 않고도 자유롭게 능력치를 변경할 수 있게 합니다.",
+    "description_th": "ให้คุณเปลี่ยนค่าพลังได้อย่างอิสระโดยไม่ต้องใช้ไอเทมรีเซ็ต",
+    "description_ru": "Позволяет свободно менять характеристики без использования предмета для сброса.",
+    "description_zh": "让你无需使用重置道具即可自由更改属性。",
     "version": "2.0",
     "type": "ui",
     "download": "https://github.com/takattowo/fs2maiden-mods/raw/refs/heads/main/mods/unlimited_training_reset/file.zip"
 }
-
