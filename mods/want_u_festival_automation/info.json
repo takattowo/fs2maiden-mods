@@ -1,15 +1,15 @@
 {
-  "name": "Want_U_Fest auto farm",
+  "name": "Want_U_Fest Auto Farm",
   "type": "ui",
   "version": "1.0",
-  "description": "Fully automates the Want_U_Festival event minigame. It will auto claim rewards, auto upgrade building etc, all handfree, open this event, and then leave the game run in bbackground",
+  "description": "Fully automates the Want_U_Festival event minigame. Automatically claims rewards, upgrades buildings, and more, completely hands-free. Just open the event and leave the game running in the background.",
   "author": "Yuna SF",
   "image": "https://github.com/takattowo/fs2maiden-mods/raw/refs/heads/main/mods/want_u_festival_automation/event.png",
   "download": "https://github.com/takattowo/fs2maiden-mods/raw/refs/heads/main/mods/want_u_festival_automation/file_beta1.zip",
   "name_ko": "Want_U_Fest 자동 파밍",
   "name_th": "Want_U_Fest ฟาร์มอัตโนมัติ",
   "name_ru": "Want_U_Fest Автофарм",
-  "name_zh": "Want_U_Fest 自动刷取"
+  "name_zh": "Want_U_Fest 自动刷取",
   "description_ko": "Want_U_Festival 이벤트 미니게임을 완전히 자동화합니다. 보상을 자동으로 수령하고, 건물을 자동으로 업그레이드하는 등 모든 작업을 완전 자동으로 수행합니다. 이벤트를 열어 둔 뒤 게임을 백그라운드에서 실행해 두기만 하면 됩니다.",
   "description_th": "ทำให้มินิเกมอีเวนต์ Want_U_Festival เป็นแบบอัตโนมัติทั้งหมด รับรางวัล อัปเกรดสิ่งปลูกสร้าง และอื่น ๆ ให้อัตโนมัติแบบแฮนด์ฟรี เพียงเปิดอีเวนต์ไว้แล้วปล่อยให้เกมทำงานอยู่เบื้องหลัง",
   "description_ru": "Полностью автоматизирует мини игру события Want_U_Festival. Автоматически получает награды, улучшает здания и выполняет другие действия без вашего участия. Просто откройте событие и оставьте игру работать в фоновом режиме.",
