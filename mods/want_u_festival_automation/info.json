@@ -1,7 +1,7 @@
 {
   "name": "Want_U_Fest auto farm",
   "type": "ui",
-  "version": "1.1",
+  "version": "1.2",
   "description": "Automates the Want_U_Festival event minigame. Press 'Space' to start or stop automation. Automatically claims rewards, upgrades buildings, and more. Just open the event and leave the game running in the background.",
   "author": "Yuna SF",
   "image": "https://github.com/takattowo/fs2maiden-mods/raw/refs/heads/main/mods/want_u_festival_automation/event.png",
