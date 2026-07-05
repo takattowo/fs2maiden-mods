@@ -1,17 +1,16 @@
 {
-  "visible": false,
   "name": "Animation balancer (PRIV)",
   "name_ko": "애니메이션 밸런서 (PRIV)",
   "name_th": "ตัวปรับสมดุลแอนิเมชัน (PRIV)",
   "name_ru": "Балансировщик анимаций (PRIV)",
   "name_zh": "动画平衡器 (PRIV)",
   "type": "cook",
-  "version": "1.0",
-  "description": "Restores game balance by replacing broken animations with Jaygun and Grisia animations.\n\nNew character animations should not create unfair advantages or disrupt game balance. This beta mod corrects animation-based balance issues and keeps gameplay fair.\n\nAccess is limited to approved users. Contact Ning to request access.",
-  "description_ko": "손상된 애니메이션을 Jaygun과 Grisia 애니메이션으로 교체하여 게임 밸런스를 복원합니다.\n\n새로운 캐릭터 애니메이션은 불공정한 이점을 만들거나 게임 밸런스를 해쳐서는 안 됩니다. 이 베타 모드는 애니메이션 기반 밸런스 문제를 수정하고 게임플레이를 공정하게 유지합니다.\n\n접근 권한은 승인된 사용자에게만 제한됩니다. 접근을 요청하려면 Ning에게 문의하세요.",
-  "description_th": "คืนสมดุลของเกมโดยแทนที่แอนิเมชันที่เสียด้วยแอนิเมชันของ Jaygun และ Grisia\n\nแอนิเมชันตัวละครใหม่ไม่ควรสร้างความได้เปรียบที่ไม่เป็นธรรมหรือทำลายสมดุลของเกม ม็อดเบต้านี้แก้ไขปัญหาสมดุลที่เกิดจากแอนิเมชันและทำให้การเล่นยุติธรรม\n\nการเข้าถึงจำกัดเฉพาะผู้ใช้ที่ได้รับอนุมัติ ติดต่อ Ning เพื่อขอสิทธิ์การเข้าถึง",
-  "description_ru": "Восстанавливает игровой баланс, заменяя сломанные анимации анимациями Jaygun и Grisia.\n\nНовые анимации персонажей не должны давать нечестное преимущество или нарушать баланс игры. Этот бета-мод исправляет проблемы баланса, связанные с анимациями, и сохраняет честность игрового процесса.\n\nДоступ предоставляется только одобренным пользователям. Чтобы запросить доступ, свяжитесь с Ning.",
-  "description_zh": "通过用 Jaygun 和 Grisia 的动画替换损坏的动画来恢复游戏平衡。\n\n新的角色动画不应造成不公平的优势或破坏游戏平衡。此测试版模组修复了基于动画的平衡问题，并保持游戏的公平性。\n\n仅限已批准的用户访问。如需申请访问权限，请联系 Ning。",
+  "version": "1.1",
+  "description": "Restores game balance by replacing Yeondu's animations with Nicrotis's animations. This release of the character has significantly disrupted game balance, making the game difficult to enjoy and contributing to a decline in the Korean player base. This mod was created in good faith to restore balance, and is not intended to provide any unfair advantage or enable cheating.\n\nAccess is limited to approved users. Contact Ning to request access.",
+  "description_ko": "Yeondu의 애니메이션을 Nicrotis의 애니메이션으로 교체하여 게임 밸런스를 복원합니다. 이번 캐릭터 업데이트는 게임 밸런스를 크게 무너뜨려 정상적인 플레이를 어렵게 만들었으며, 한국 플레이어 수 감소에도 영향을 주었습니다. 이 모드는 게임 밸런스를 복원하기 위한 선의의 목적으로 제작되었으며, 어떠한 부당한 이점이나 치트를 제공하려는 의도가 없습니다.\n\n접근 권한은 승인된 사용자에게만 제한됩니다. 접근을 요청하려면 Ning에게 문의하세요.",
+  "description_th": "คืนสมดุลของเกมโดยแทนที่แอนิเมชันของ Yeondu ด้วยแอนิเมชันของ Nicrotis การเปิดตัวตัวละครนี้ส่งผลกระทบต่อสมดุลของเกมอย่างมาก ทำให้เกมเล่นได้ยากขึ้นและมีส่วนทำให้จำนวนผู้เล่นในเกาหลีลดลง ม็อดนี้สร้างขึ้นด้วยเจตนาดีเพื่อฟื้นฟูสมดุลของเกม และไม่ได้มีจุดประสงค์เพื่อให้เกิดความได้เปรียบที่ไม่เป็นธรรมหรือการโกง\n\nการเข้าถึงจำกัดเฉพาะผู้ใช้ที่ได้รับอนุมัติ ติดต่อ Ning เพื่อขอสิทธิ์การเข้าถึง",
+  "description_ru": "Восстанавливает игровой баланс, заменяя анимации Yeondu анимациями Nicrotis. Этот выпуск персонажа существенно нарушил игровой баланс, из-за чего играть стало значительно менее комфортно, а также способствовал сокращению числа игроков в Корее. Этот мод создан из добрых побуждений для восстановления баланса и не предназначен для получения нечестного преимущества или использования читов.\n\nДоступ предоставляется только одобренным пользователям. Чтобы запросить доступ, свяжитесь с Ning.",
+  "description_zh": "通过用 Nicrotis 的动画替换 Yeondu 的动画来恢复游戏平衡。此次角色发布严重破坏了游戏平衡，使游戏体验大幅下降，并导致韩国玩家数量减少。此模组出于善意制作，旨在恢复游戏平衡，无意提供任何不公平优势或用于作弊。\n\n仅限已批准的用户访问。如需申请访问权限，请联系 Ning。",
   "download": "https://github.com/takattowo/fs2maiden-mods/raw/refs/heads/main/mods/animation_balancer/owo.zip",
   "image": "https://github.com/takattowo/fs2maiden-mods/raw/refs/heads/main/mods/animation_balancer/imageow.png"
 }
