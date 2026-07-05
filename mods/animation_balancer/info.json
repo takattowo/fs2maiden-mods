@@ -1,9 +1,9 @@
 {
-  "name": "Animation balancer (PRIV)",
-  "name_ko": "애니메이션 밸런서 (PRIV)",
-  "name_th": "ตัวปรับสมดุลแอนิเมชัน (PRIV)",
-  "name_ru": "Балансировщик анимаций (PRIV)",
-  "name_zh": "动画平衡器 (PRIV)",
+  "name": "Yeondu balance fix",
+  "name_ko": "연두 밸런스 수정",
+  "name_th": "แก้ไขสมดุล Yeondu",
+  "name_ru": "исправление баланса Yeondu",
+  "name_zh": "Yeondu 平衡修复"
   "type": "cook",
   "version": "1.1",
   "description": "Restores game balance by replacing Yeondu's animations with Nicrotis's animations. This release of the character has significantly disrupted game balance, making the game difficult to enjoy and contributing to a decline in the Korean player base. This mod was created in good faith to restore balance, and is not intended to provide any unfair advantage or enable cheating.\n\nAccess is limited to approved users. Contact Ning to request access.",
