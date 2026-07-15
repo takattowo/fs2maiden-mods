@@ -9,7 +9,7 @@
     "description_th": "ป้องกันไม่ให้หน้าต่างการซื้อปิดหลังจากซื้อไอเทม ทำให้การซื้อจำนวนมากเร็วและสะดวกยิ่งขึ้น",
     "description_ru": "Не даёт окну покупки закрываться после приобретения предмета, делая массовые покупки быстрее и удобнее.",
     "description_zh": "购买物品后防止购买窗口关闭，让批量购买更快、更方便。",
-    "version": "1.0",
+    "version": "1.1",
     "type": "ui",
     "download": "https://github.com/takattowo/fs2maiden-mods/raw/refs/heads/main/mods/keep_purchase_window/file.zip"
 }
