@@ -6,7 +6,7 @@
   "name_ru": "Смена имени Redux",
   "name_zh": "改名工具 Redux",
   "type": "ui",
-  "version": "1.0",
+  "version": "1.1",
   "description": "Allow the name changer to support Chinese and Korean characters, and increase the maximum length from 12 to 15 characters.",
   "description_ko": "네임 체인저가 중국어와 한국어 문자를 지원하도록 하고, 최대 길이를 12자에서 15자로 늘립니다.",
   "description_th": "ทำให้ตัวเปลี่ยนชื่อรองรับอักษรจีนและเกาหลี และเพิ่มความยาวสูงสุดจาก 12 เป็น 15 ตัวอักษร",
@@ -15,5 +15,4 @@
   "author": "",
   "image": "https://github.com/takattowo/fs2maiden-mods/raw/refs/heads/main/mods/name_changer_redux/image.png",
   "download": "https://github.com/takattowo/fs2maiden-mods/raw/refs/heads/main/mods/name_changer_redux/file.zip",
-  "files": []
 }
